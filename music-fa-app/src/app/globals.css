@@ -46,3 +46,14 @@ body{
     transition-duration: 400ms;
     transition-timing-function: ease-in-out;
 }
+
+.player{
+    background-color: black;
+    color: azure;
+}
+
+.player-wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

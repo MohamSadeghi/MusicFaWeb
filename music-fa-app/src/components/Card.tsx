@@ -1,5 +1,4 @@
 'use client'
-import React from "react";
 import {Genres} from "../../constants/genres";
 import Image from "next/image";
 
